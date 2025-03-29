@@ -1,0 +1,5 @@
+This would contain:
+- index.html (captive portal page)
+- script.js (authentication logic) 
+- styles.css (styling)
+- README with setup instructions
